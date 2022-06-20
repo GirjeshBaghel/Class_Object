@@ -1,3 +1,4 @@
+//Write a program by using class and object.First class do the process of sum of digit and fibonacci series.Second class use the method of first class.
 import java.util.Scanner;
 class Main_Class
 {
